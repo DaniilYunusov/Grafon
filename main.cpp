@@ -9,5 +9,5 @@ int main(int argc, char *argv[]) {
   window.setWindowTitle("Plus minus");
   window.show();
 
-  return app.exec();
+  return app.exec(); // q
 }
